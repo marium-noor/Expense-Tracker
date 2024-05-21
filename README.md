@@ -1,8 +1,14 @@
-# React + Vite
+# Seamless Expense Tracker 💲📱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An expense tracker application made with React.
 
-Currently, two official plugins are available:
+Utilized Context API for state management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Add Income and Expenses.
+- Delete Income and Expenses.
+- Calculate Current Balance.
+- Specifies Income and expenses in different sections.
+
+Try it yourself [].
