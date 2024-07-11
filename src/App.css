@@ -119,6 +119,13 @@ input[type='number'] {
   outline: 0;
 }
 
+.delete-btn {
+  background-color: red;
+  color: white;
+  width: 10%;
+  border-radius: 50%;
+}
+
 .list {
   list-style-type: none;
   padding: 0;
