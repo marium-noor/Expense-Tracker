@@ -106,11 +106,12 @@ input[type='number'] {
   padding: 12px;
   width: 100%;
   border-radius: 4px;
-  transition: background-color 0.3s ease;
+  transition:  background-color 0.3s ease;
 }
 
 .btn:hover {
-  background-color: var(--primary-color) darken(10%);
+  background-color: green;
+  color: white;
 }
 
 .btn:focus,
